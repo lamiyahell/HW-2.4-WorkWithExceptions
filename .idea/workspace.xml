@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5325fb77-9349-4d6a-86fb-d04020774a55" name="Changes" comment="1 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/WrongLoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/WrongPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/validators/LoginValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/validators/PasswordValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5325fb77-9349-4d6a-86fb-d04020774a55" name="Changes" comment="ДЗ сделано с использованием регулярных выражений">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686769649376</updated>
-      <workItem from="1686769650754" duration="7187000" />
+      <workItem from="1686769650754" duration="7485000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1686769906721</created>
@@ -94,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686769906721</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ сделано с использованием регулярных выражений">
+      <created>1686777157542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686777157542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
+    <MESSAGE value="ДЗ сделано с использование регулярных выражений" />
+    <MESSAGE value="ДЗ сделано с использованием регулярных выражений" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ сделано с использованием регулярных выражений" />
   </component>
 </project>

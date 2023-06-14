@@ -16,10 +16,7 @@ public class PasswordValidator {
     }
 
     public static void comparePassword(String password, String confirmPassword) {
-        try {
         if (password != confirmPassword) {
-        }
-        } catch (WrongPasswordException e) {
             throw new WrongPasswordException("Пароли не совпадают!");
         }
     }
