@@ -12,12 +12,11 @@ public class PasswordValidator {
     public static void validatePassword(String password, String confirmPassword) throws WrongPasswordException{
         Pattern pattern = Pattern.compile("^[a-zA-Z\\d_]{1,20}$");
         Matcher matcher = pattern.matcher(password);
-        Matcher matcher1 = pattern.matcher(confirmPassword);
         if (!matcher.matches()) {
             throw new WrongPasswordException("Пароль не соответствует требованиям!");
         }
 
-        if (!matcher.equals(matcher1)) {
+        if (!password.equals(confirmPassword)) {
             throw new WrongPasswordException("Пароли не совпадают. Попробуйте еще раз!");
         }
     }

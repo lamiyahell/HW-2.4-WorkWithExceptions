@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5325fb77-9349-4d6a-86fb-d04020774a55" name="Changes" comment="ДЗ сделано с использованием регулярных выражений - 2">
+    <list default="true" id="5325fb77-9349-4d6a-86fb-d04020774a55" name="Changes" comment="Код в ДЗ поправила">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/WrongLoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/WrongLoginException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/WrongPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/WrongPasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validators/LoginValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/validators/LoginValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validators/PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/validators/PasswordValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <updated>1686769649376</updated>
       <workItem from="1686769650754" duration="7580000" />
       <workItem from="1686854425007" duration="2910000" />
-      <workItem from="1686893167599" duration="1003000" />
+      <workItem from="1686893167599" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1686769906721</created>
@@ -106,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686777274712</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Код в ДЗ поправила">
+      <created>1686894269173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686894269173</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +119,7 @@
     <MESSAGE value="ДЗ сделано с использование регулярных выражений" />
     <MESSAGE value="ДЗ сделано с использованием регулярных выражений" />
     <MESSAGE value="ДЗ сделано с использованием регулярных выражений - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ сделано с использованием регулярных выражений - 2" />
+    <MESSAGE value="Код в ДЗ поправила" />
+    <option name="LAST_COMMIT_MESSAGE" value="Код в ДЗ поправила" />
   </component>
 </project>
