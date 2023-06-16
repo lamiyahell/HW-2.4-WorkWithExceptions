@@ -7,10 +7,9 @@ public class Main {
         Registration registration = new Registration(
         "java_skypro_go",
         "D_1hWiKjjP_8",
-        "D_1hWiKjjP_9");
+        "D_1hWiKjjP_8");
 
-        LoginValidator.validateLogin(registration.getLogin());
-        PasswordValidator.validatePassword(registration.getPassword());
-        PasswordValidator.comparePassword(registration.getPassword(), registration.getConfirmPassword());
+        LoginValidator.isLoginValid(registration.getLogin());
+        PasswordValidator.isPasswordValid(registration.getPassword(), registration.getConfirmPassword());
     }
 }

@@ -1,3 +1,5 @@
+import exceptions.WrongLoginException;
+
 public class Registration {
     private String login;
     private String password;
@@ -20,6 +22,5 @@ public class Registration {
     public String getConfirmPassword() {
         return confirmPassword;
     }
-
 }
 
